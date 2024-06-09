@@ -14,7 +14,7 @@ This project, part of the **Software Engineering for AI** course, performs an em
 - **Fairness Metrics**: 0-Shot and 2-Shot techniques generally maintained better fairness metrics compared to the 1-Shot technique, with 1-Shot showing increased bias especially across demographic attributes like sex and age.
 
 ## Repository Structure
-- `data/`: Original and generated datasets.
+- `datasets/`: Original and generated datasets.
 - `notebooks/`: Jupyter notebooks for data generation, analysis, and visualization.
 - `documents/`: Contains the full report and a presentation PDF detailing methodology and results.
 
